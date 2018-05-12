@@ -14,6 +14,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22830#La-terrible-et-merveilleuse-vie-de-Robert-le-Diable
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-10-02'
 gutenberg_type: Text
